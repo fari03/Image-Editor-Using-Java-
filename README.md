@@ -21,8 +21,8 @@ Java Image Editor is a simple image editing application built using Java Swing, 
 
 ### Installation
 
-1. Clone the repository to your local machine:
-git clone https://github.com/yourusername/java-image-editor.git<br>
+1. Clone the repository to your local machine:<br>
+   git clone https://github.com/yourusername/java-image-editor.git<br>
 2.Open the project in your favorite Java Integrated Development Environment (IDE).<br>
 3.Build and run the project from the main class ImageEditorApp.java.<br>
   java ImageEditorApp
